@@ -8,7 +8,7 @@ Architecture:
     5. Output           →  ranked CSV  +  detailed JSON  +  human-readable report
 
 Quick start:
-    pip install pdfplumber anthropic openai numpy
+    pip install -r requirements.txt
     export ANTHROPIC_API_KEY=sk-ant-...       # or OPENAI_API_KEY
     python filtering.py --resumes ./resumes --top 0.05
 

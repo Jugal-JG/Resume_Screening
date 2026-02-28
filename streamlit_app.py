@@ -2,7 +2,7 @@
 streamlit_app.py — AI Know A Guy | Resume Screening UI
 ─────────────────────────────────────────────────────────
 Run with:
-    pip install streamlit pdfplumber anthropic openai
+    pip install -r requirements.txt
     streamlit run streamlit_app.py
 
 Free API key options (no credit card needed):
